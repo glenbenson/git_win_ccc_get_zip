@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ccc_ems_download
+</name>
+</assembly>
+<members>
+<member name="M:ccc_ems_download.Form1.Form1_Load(System.Object,System.EventArgs)">
+ <summary>
+  Written By Glen Benson may 26th 2016
+  Logs on to mycccportal.com  and downloads EMS files
+  
+
+ 
+ Connects to external site to get acct no
+ retvaltxt = retval.account + "|" + retval.password + "|" + retval.description + "|" + retval.row;
+ 
+ </summary>
+</member>
+<member name="T:ccc_ems_download.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ccc_ems_download.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ccc_ems_download.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

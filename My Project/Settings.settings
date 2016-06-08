@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="download_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\adp\emsin</Value>
+    </Setting>
+    <Setting Name="dest_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\adp\emsin\back</Value>
+    </Setting>
+    <Setting Name="mainurl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https:\\mycccportal.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
